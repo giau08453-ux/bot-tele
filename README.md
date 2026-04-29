@@ -2,10 +2,10 @@ import telebot
 import json
 from telebot.types import ReplyKeyboardMarkup
 
-TOKEN = "8209902309:AAFvK1KVpGCfZh1z7Jm-BI1nG7_ba9j-tSQ"
-ADMIN_ID = "7105492479"
+TOKEN = "8730864516:AAHq7--PRivF7QfEwrkEtYZnqpRtQ7Zj-Vo"
+ADMIN_ID = 7105492479
 
-bot = telebot.TeleBot(TOKEN)
+bot = telebot.TeleBot(8730864516:AAHq7--PRivF7QfEwrkEtYZnqpRtQ7Zj-Vo)
 
 # ===== LOAD / SAVE =====
 def load():
